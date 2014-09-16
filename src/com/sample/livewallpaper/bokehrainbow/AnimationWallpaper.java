@@ -28,7 +28,7 @@ public abstract class AnimationWallpaper extends WallpaperService {
 			public void run() {
 				iteration();
 				drawFrame();
-				// deneme
+				// deneme2
 			}
 		};
 
